@@ -1,0 +1,54 @@
+.im{ 
+    height: 54px;
+}
+html
+body{
+    height: 100%;
+    font-size: 1rem;
+    font-family: "Montserrat", sans-serif;
+  }
+
+.gradient{
+    background: rgb(0, 97, 242);
+    background: linear-gradient(
+      135deg,
+      rgb(107, 14, 14) 0%,
+      rgb(105, 41, 102) 100%
+    );
+}
+.navbar{
+    opacity: 70%;
+    background: rgb(87, 1, 15);
+    background: linear-gradient(
+      135deg,
+      rgb(107, 14, 14) 0%,
+      rgb(105, 41, 102) 100%
+    );
+}
+.page-header{
+    margin-top: 4rem;
+    font-size: 1.25rem;
+    color:#ffff
+}
+.btn{
+    height: 60px;
+    width:120px;
+}
+.button1{
+    border-radius: 8px;
+    background-color:
+    rgb(107, 14, 14) 0%, ;
+    border: 2px black;
+    color: black;
+}
+.button2{
+    border-radius: 8px;
+    background-color:
+     rgb(107, 14, 14) 0%,;
+    border: 2px black;
+    color: black;
+    
+}
+img{
+    margin-right: 1px;
+}
